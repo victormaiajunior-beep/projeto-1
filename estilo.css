@@ -1,7 +1,18 @@
 *{
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 body{
-    background-color: white;
+    background-color: light rgb(110, 228, 220);
+}
+.cabecalho{
+    padding: 15px 25px;
+}
+.cartako{
+    width:260px;
+    height:200px;
+}
+.catao-imagem{
+    width: 100%;
 }
