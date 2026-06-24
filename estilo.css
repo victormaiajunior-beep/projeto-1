@@ -73,8 +73,9 @@ footer {
 .cartao-verso{
   transform: rotateY(180deg);
 }
-.cartao:hover .cartao-interno
-transform: ratatey(180deg)
+.cartao:hover .cartao-interno{
+transform: rotatey(180deg)
+}
 
 section {
   display: flex;
